@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Leadership AdvantEdge]]></title>
         <description><![CDATA[Leadership AdvantEdge]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/leadership-advantedge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 Nov 2015 02:05:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 17 Nov 2015 02:14:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/leadership-advantedge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Everyone has talent]]></title>
-            <description><![CDATA[<article><h1>Everyone has talent</h1><p>Article and podcast on identifying your talent and leveraging it to achieve greatness</p></article>]]></description>
-            <link>undefinedeveryone-has-talent/index.html</link>
-            <guid isPermaLink="false">d324b237-bcf8-43e5-b9c0-d8062eb8d9f4</guid>
-            <pubDate>Tue, 17 Nov 2015 02:04:36 GMT</pubDate>
+            <title><![CDATA[How to influence someone you don't know well-4 appeals]]></title>
+            <description><![CDATA[<article><h1>How to influence someone you don't know well-4 appeals</h1><p>Jeff sat on a bar stool at the front of the room. He had no slides, no props, just sat and talked. Within minutes, he had everybody in the room on the edge of their seats eagerly nodding and ready to follow him wherever he went.</p><img src="http://celsim.com/wp-content/uploads/2015/10/3.png"></article>]]></description>
+            <link>http://celsim.com/podcast/influence-in-your-pocket/influence-someone-dont-know-well-4-universal-appeals/</link>
+            <guid isPermaLink="false">c450013d-db06-4c95-8825-3deba244cd15</guid>
+            <pubDate>Tue, 17 Nov 2015 02:14:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How to find your talent, practice it and achieve greatness]]></title>
+            <description><![CDATA[<article><h1>How to find your talent, practice it and achieve greatness</h1><p>It was 4.30 on a cold and wet morning and I was choking on the stench of thick layers of years old grease behind the deep fat fryer and I was ecstatically happy as I scrubbed and cleaned the once white tiles back to their original gleaming brightness.</p><img src="http://celsim.com/wp-content/uploads/2015/11/Howto71.png"></article>]]></description>
+            <link>http://celsim.com/podcast/talent-management/find-talent-practice-achieve-greatness/</link>
+            <guid isPermaLink="false">8884e121-67e1-449b-a872-7d73ba4609fa</guid>
+            <pubDate>Tue, 17 Nov 2015 02:13:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
