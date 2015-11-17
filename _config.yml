@@ -22,7 +22,7 @@ color:
     - '#000055'
     - '#facf60'
   brandStrength: 0.5625
-  lightness: 0.8107169680297375
+  lightness: 0.5
   saturation: 0.3804881190881133
-  rhythmicContrast: 0.10030377493239939
+  rhythmicContrast: 0.75
 purpose: []
