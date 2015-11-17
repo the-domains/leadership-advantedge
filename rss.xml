@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Leadership AdvantEdge]]></title>
+        <description><![CDATA[Leadership AdvantEdge]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 17 Nov 2015 02:05:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Everyone has talent]]></title>
+            <description><![CDATA[<article><h1>Everyone has talent</h1><p>Article and podcast on identifying your talent and leveraging it to achieve greatness</p></article>]]></description>
+            <link>undefinedeveryone-has-talent/index.html</link>
+            <guid isPermaLink="false">d324b237-bcf8-43e5-b9c0-d8062eb8d9f4</guid>
+            <pubDate>Tue, 17 Nov 2015 02:04:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
